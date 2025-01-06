@@ -1,0 +1,35 @@
+/*navbar*/
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 76px;
+}
+
+nav h1{
+    color: white;
+    font-size: 2rem;
+}
+
+nav ul {
+    display: flex;
+    
+}
+
+nav ul li{
+    list-style-type: none;
+    display: flex;
+    
+}
+
+nav ul li a{
+    margin: 0.4rem;
+    padding: 0.5rem 0.9rem;
+}
+
+nav ul li a:hover{
+    background-color: #f7204a;
+    border-radius: 0.4rem;
+
+    
+}
