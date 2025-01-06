@@ -64,3 +64,22 @@ nav ul li a:hover{
     margin: 2rem 0;
 
 }
+
+/*egitimler*/
+.egitimler{
+    height: 15rem;
+    display: flex;
+    align-items: center;
+    column-gap: 2rem;
+    color: white
+}
+#egitimler h1{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    padding-top: 2rem
+}
+
+.egitimler .egitim{
+    text-align: center;
+}
