@@ -83,3 +83,46 @@ nav ul li a:hover{
 .egitimler .egitim{
     text-align: center;
 }
+
+/*kurslar*/
+#kurslar{
+    margin: 2rem;
+}
+
+#kurslar h1{
+    text-align: center;
+    margin: 3rem;
+    font-size: xx-large;
+}
+.kurs-img{
+    position: relative;
+}
+
+.kurs-img img{
+    width: 400px;
+}
+
+.kurs-img span{
+    position: absolute;
+    top: 10px;
+    left: 0;
+    background-color: #f7204a;
+    color: white;
+    border: 0.1rem;
+    padding: 0.2rem 0.2rem;
+}
+
+.kurs{
+    display: flex;
+    column-gap: 2.5rem;
+    justify-content: center;
+    margin: 2rem 0;
+    
+}
+
+.kurs-author{
+    font-style: italic;
+}
+.kurs-desc{
+    margin: 0.8rem 0 0.5rem 0;
+}
