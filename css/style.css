@@ -126,3 +126,55 @@ nav ul li a:hover{
 .kurs-desc{
     margin: 0.8rem 0 0.5rem 0;
 }
+
+/*iletisim*/
+#iletisim h1{
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+#iletisim{
+    color: white;
+}
+
+label{
+    font-size: large;
+    margin-top: 0.8rem;
+}
+
+input{
+    padding: 0.7rem 0;
+    font-size: medium;
+}
+
+textarea{
+    padding: 0.7rem 0;
+    font-size: medium;
+    height: 5rem;
+}
+
+#iletisim button{
+    margin-top: 2rem;
+    width: 100%;
+    background-color: white;
+    color: black;
+}
+
+#iletisim button:hover{
+    background-color: salmon;
+}
+
+.icon-set{
+    padding: 3rem;
+    font-size: xx-large;
+    display: flex;
+    column-gap: 2rem;
+    justify-content: center;
+}
+
+.icon-set i:hover{
+    color: salmon;
+    cursor: pointer;
+}
