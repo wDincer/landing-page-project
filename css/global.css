@@ -6,7 +6,7 @@
 }
 
 .container{
-    width: 1300px;
+    width: 1100px;
     padding: auto;
     margin: auto;
 }
@@ -21,6 +21,19 @@ a{
 }
 
 .bg-light-red{
+    background-color: #f7204a;
+}
+
+.red-button{
+    padding: 0.7rem 1.7rem;
+    font-size: medium;
+    border-radius: 0.4rem;
+    background-color: #8a0a23;
+    color: white;
+    border: #8a0a23;
+}
+
+.red-button:hover{
     background-color: #f7204a;
 }
 
