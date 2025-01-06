@@ -1,4 +1,4 @@
-# LANDİNG PAGE PROJESİ
+# LANDİNG PAGE PROJESİ ( FINISHED )
 
 Merhaba! Ben Ahmet Dincer. Yönetim Bilişim Sistemleri 2. sınıf öğrencisiyim. Kendi çapımda projeler geliştirmekteyim. Bu projenin amacı HTML ve CSS işaretleme dillerini aktif şekilde kullanarak kişisel website yapmaktır. Aynı zamanda Git teknolojisini düzgün şekilde kullanacağım ilk projem olacağı için bana fazladan bir katkısı olacak. 
 
